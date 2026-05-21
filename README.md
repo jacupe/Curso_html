@@ -87,3 +87,152 @@ de autor o redes sociales.
    <p>Todos los derechos reservados</p>
 </footer>
 ```
+
+
+
+   # 📘 Organización de texto en HTML
+
+HTML permite estructurar y organizar el contenido de una página web mediante etiquetas.  
+Estas etiquetas ayudan a que la información sea más clara, ordenada y fácil de entender.
+
+---
+
+# 🏷️ Encabezados en HTML
+
+Los encabezados se utilizan para colocar títulos y subtítulos según el nivel de importancia.
+
+| Etiqueta | Función |
+|-----------|-----------|
+| `<h1>` | Título principal |
+| `<h2>` | Subtítulo |
+| `<h3>` | Tema secundario |
+| `<h4>` | Subtema |
+| `<h5>` | Encabezado pequeño |
+| `<h6>` | Encabezado de menor tamaño |
+
+## ✨ Ejemplo
+
+```html
+<h1>Mi primera página</h1>
+<h2>Sección principal</h2>
+<h3>Información adicional</h3>
+```
+
+---
+
+# 📝 Párrafos y énfasis
+
+Los párrafos sirven para escribir textos o descripciones dentro de la página web.
+
+Las etiquetas de énfasis permiten resaltar palabras importantes.
+
+| Etiqueta | Función |
+|-----------|-----------|
+| `<p>` | Crear párrafos |
+| `<strong>` | Mostrar texto importante en negrita |
+| `<em>` | Mostrar texto con énfasis en cursiva |
+
+## ✨ Ejemplo
+
+```html
+<p>HTML permite crear páginas web.</p>
+
+<p>
+Este texto tiene una palabra
+<strong>importante</strong>
+y otra palabra con
+<em>énfasis</em>.
+</p>
+```
+
+---
+
+# 📋 Listas en HTML
+
+Las listas ayudan a organizar información de forma ordenada o con viñetas.
+
+| Etiqueta | Función |
+|-----------|-----------|
+| `<ul>` | Lista desordenada |
+| `<ol>` | Lista ordenada |
+| `<li>` | Elemento de lista |
+
+## ✨ Ejemplo
+
+```html
+<ul>
+    <li>Computadora</li>
+    <li>Teclado</li>
+</ul>
+
+<ol>
+    <li>Encender PC</li>
+    <li>Abrir navegador</li>
+</ol>
+```
+
+---
+
+# 💬 Citas y referencias
+
+Estas etiquetas se utilizan para mostrar frases importantes o nombres de autores.
+
+| Etiqueta | Función |
+|-----------|-----------|
+| `<blockquote>` | Crear una cita larga |
+| `<cite>` | Mostrar autor o referencia |
+
+## ✨ Ejemplo
+
+```html
+<blockquote>
+"La educación es la clave del éxito."
+</blockquote>
+
+<cite>Autor desconocido</cite>
+```
+
+---
+
+# 💻 Código y texto técnico
+
+Estas etiquetas sirven para mostrar código de programación manteniendo su formato.
+
+| Etiqueta | Función |
+|-----------|-----------|
+| `<code>` | Mostrar código |
+| `<pre>` | Mantener espacios y saltos de línea |
+
+## ✨ Ejemplo
+
+```html
+<pre>
+<code>
+<h1>Hola Mundo</h1>
+</code>
+</pre>
+```
+
+---
+
+# 📏 Líneas y saltos de línea
+
+Se utilizan para separar contenido o realizar saltos de línea.
+
+| Etiqueta | Función |
+|-----------|-----------|
+| `<hr>` | Crear línea horizontal |
+| `<br>` | Realizar salto de línea |
+
+## ✨ Ejemplo
+
+```html
+<p>Bienvenidos</p>
+
+<hr>
+
+<p>
+Curso básico<br>
+de HTML
+</p>
+```
