@@ -236,3 +236,33 @@ Curso básico<br>
 de HTML
 </p>
 ```
+
+
+
+# CSS (cascading style sheet)
+cascadas de hojas de estilo, es documento que nos permite darle estilo a 
+nuestros elementos, posisionar, escalar, formato, color y trancisiones.
+## como aplicar css a nuestro documento html 
+### 1. En linea 
+este manera de aplicar css es haciendo uso de los atributos de un elemento 
+en este caso en especial usando nel atributo 'style' 
+'''html
+<p style="color:pink;size:23rem>este es el texto</p>
+'''
+> (!TIP ) en caso0 de los embebidos y los
+ de archicivo externo hay que entender sobre 
+ selectores:son de manare de como yo 
+ identico un elemento dentro de un 
+ documento html, selector por etiqueta, id
+ y clase, en el diseño web se recomienda 
+ solo usar los selectores de tipo clase.
+
+ ### 2. embebidos
+ este tipo de aplicar estilo nos permite 
+ hacer uso de la etiqueta atyle para poder 
+ estilar nuestros elementos, por convencio
+ esta eytiqueta al ser de configuracionse debe usar en 
+ ### 3. 
+
+
+### 3. archivo externo 
